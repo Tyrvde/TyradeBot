@@ -1,0 +1,27 @@
+{
+  "name": "tychatbot",
+  "version": "1.0.0",
+  "description": "This is the twitch bot template for my channel (twitch.tv/tyrvde)",
+  "main": "tychatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyrvde/TyradeBot.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Chat",
+    "Bot"
+  ],
+  "author": "Tyler Stockman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyrvde/TyradeBot/issues"
+  },
+  "homepage": "https://github.com/Tyrvde/TyradeBot#readme",
+  "dependencies": {
+    "tmi.js": "0.0.29"
+  }
+}
