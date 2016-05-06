@@ -1,5 +1,6 @@
 /* Replace all quotes with the indicated actions. Simple JS Twitch Chat Bot
-d by Tyler Stockman (http://github.com/tyrvde)*/
+d by Tyler Stockman (http://github.com/tyrvde) using the tutorial provided 
+by Dev Coffee https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw*/
 
 var tmi = require('tmi.js');
 
